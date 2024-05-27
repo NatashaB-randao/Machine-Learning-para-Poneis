@@ -19,7 +19,7 @@ Todas as aulas estão gravadas e disponibilizadas no [YouTube](https://www.youtu
 
 ## Pré-requisitos
 
-Para acompanhar o curso da forma mais fluída possível, é recomendado ter o básico de conhecimento em Python e sua principal biblioteca de manipulação de dados, Pandas. Bem como noções de Estatística Básica e Git/GitHub. Para cada um desses temas, há playlists específicas em nosso canal no YouTube que podem te ajudar:
+Para acompanhar o curso da forma mais fluída possível, é recomendado ter o básico de conhecimento em Python e sua principal biblioteca de manipulação de dados, Pandas. Bem como noções de Estatística Básica e Git/GitHub. Para cada um desses temas, há playlists específicas no canal no YouTube que podem te ajudar:
 
 | Tema             | Link                                                                                                     |
 |:----------------:|:--------------------------------------------------------------------------------------------------------:|
